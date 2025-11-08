@@ -6,8 +6,9 @@
 
 El presente proyecto tiene como objetivo realizar un análisis exhaustivo de los datos de ventas correspondientes a cuatro tiendas de la cadena **Alura Store LATAM**, con el propósito de identificar la tienda con menor rendimiento y obtener información útil para la toma de decisiones estratégicas.
 
-El conjunto de datos incluye información detallada sobre los productos vendidos, categorías, precios, costos de envío, calificaciones de los clientes, métodos de pago y ubicaciones geográficas de las transacciones.  
-A partir de estos datos, se desarrolló un análisis integral utilizando herramientas de ciencia de datos y visualización. Al final debemos presentar a nuestro cliente cual es la tienda que se recomienda cerrar para iniciar su nuevo emprendimiento.
+El conjunto de datos incluye información detallada sobre los productos vendidos, categorías, precios, costos de envío, calificaciones de los clientes, métodos de pago y ubicaciones geográficas de las transacciones.  A partir de estos datos, se desarrolló un análisis integral utilizando herramientas de ciencia de datos y visualización. 
+
+Al final debemos presentar a nuestro cliente cual es la tienda que se recomienda cerrar para iniciar su nuevo emprendimiento.
 
 ---
 
@@ -63,7 +64,7 @@ A partir de estos datos, se desarrolló un análisis integral utilizando herrami
 ## Conclusiones
 
 El análisis permitió obtener una visión completa del desempeño de cada tienda, tanto en términos financieros como de satisfacción del cliente y cobertura geográfica.  
-Los resultados arrojaron que la tienda 4 es la que se reocmienda cerrar.
+Los resultados arrojaron que la tienda 4 es la que se recomienda cerrar.
 
 ---
 
